@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @hybrid-trader RL name: Chris, or Christopher if it's a Sunday! A recently PHP / Python developer living in Leicester UK.
+- 👋 Hi, I’m @hybrid-trader RL name: Chris, or Christopher if it's a Sunday! A PHP / Python developer living in Leicester UK.
 - 👀 I’m fascinated with stocks, crypto mainly and trade derivatives using an automated platform I wrote.
 - 🌱 I’m currently filling the grey cells at Open University, end goal... PhD Orbital Mechanics (Space Science)
 - 📫 You can catch me on twitter @digital_dad_uk 
+- DnD, 2d6 Dungeon, Umbra, Glide and traveller keep me occupied when I need a trip out of reality.
